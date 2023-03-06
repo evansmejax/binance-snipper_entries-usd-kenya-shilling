@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/binance-snipper_entries-usd-kenya-shilling/static/css/main.5623c657.css",
-    "main.js": "/binance-snipper_entries-usd-kenya-shilling/static/js/main.bcbd7b0e.js",
+    "main.js": "/binance-snipper_entries-usd-kenya-shilling/static/js/main.0cbe92c1.js",
     "static/media/dxicons.woff": "/binance-snipper_entries-usd-kenya-shilling/static/media/dxicons.c568ff14b17313b699e2.woff",
     "static/media/dxicons.ttf": "/binance-snipper_entries-usd-kenya-shilling/static/media/dxicons.506efc48bb7054c11c4d.ttf",
     "static/media/dxicons.woff2": "/binance-snipper_entries-usd-kenya-shilling/static/media/dxicons.dc1bbe3fe80897e2c012.woff2",
     "index.html": "/binance-snipper_entries-usd-kenya-shilling/index.html",
     "main.5623c657.css.map": "/binance-snipper_entries-usd-kenya-shilling/static/css/main.5623c657.css.map",
-    "main.bcbd7b0e.js.map": "/binance-snipper_entries-usd-kenya-shilling/static/js/main.bcbd7b0e.js.map"
+    "main.0cbe92c1.js.map": "/binance-snipper_entries-usd-kenya-shilling/static/js/main.0cbe92c1.js.map"
   },
   "entrypoints": [
     "static/css/main.5623c657.css",
-    "static/js/main.bcbd7b0e.js"
+    "static/js/main.0cbe92c1.js"
   ]
 }
